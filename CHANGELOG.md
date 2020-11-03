@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.9.1"></a>
+## [0.9.1](https://github.com/StefH/angular-odata-es5/compare/v0.9.0...v0.9.1) (2020-11-03)
+
+
+### Bug Fixes
+
+* **angular:** Migrated ModuleWithProviders to use generic type for Angular 10+ support. ([c2af6cd](https://github.com/StefH/angular-odata-es5/commit/c2af6cd))
+* **package.json:** Fixed npm audit issues. ([0bb8b24](https://github.com/StefH/angular-odata-es5/commit/0bb8b24))
+
+
+
 <a name="0.9.0"></a>
 # [0.9.0](https://github.com/StefH/angular-odata-es5/compare/v0.8.4...v0.9.0) (2020-07-18)
 
